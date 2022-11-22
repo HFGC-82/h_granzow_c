@@ -1,8 +1,8 @@
 # Site settings
 title: Blog Herman
-description: 'Business Card Page'
+description: 'Blog Sistemas Recomendadores MIA'
 url: 'http://h_granzow_c'
-baseurl: ''
+#baseurl: ''
 profilepic: '/images/Image_1669076682282.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
